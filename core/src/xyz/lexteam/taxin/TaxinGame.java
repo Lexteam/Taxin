@@ -1,4 +1,4 @@
-package xyz.lexteam;
+package xyz.lexteam.taxin;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

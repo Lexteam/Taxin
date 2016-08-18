@@ -1,8 +1,8 @@
-package xyz.lexteam.desktop;
+package xyz.lexteam.taxin.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import xyz.lexteam.TaxinGame;
+import xyz.lexteam.taxin.TaxinGame;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
