@@ -15,7 +15,7 @@ android {
         instrumentTest.setRoot('tests')
     }
     defaultConfig {
-        applicationId "xyz.lexteam"
+        applicationId "xyz.lexteam.taxin"
         minSdkVersion 8
         targetSdkVersion 24
     }
